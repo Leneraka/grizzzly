@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# GriZzzly BadSiteList
 
-You can use the [editor on GitHub](https://github.com/Leneraka/grizzzly/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[GriZzzly](https://chrome.google.com/webstore/detail/ddagppndhjlaaafikdebjdcdifcaalfo) is a project that aims to block as many public domain blacklists (downloads, drugs, malware, spyware, exploit, phishing, etc.). To do this, I perform a debugging of urls, to avoid duplicates, invalid domains, and filter with white lists of domains (false positives such as google, yandex, yahoo, apple, etc.).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Description
 
-### Markdown
+|File|Count Domains|File size|
+|----|-------------|---------|
+|bad_extension.txt|12093|412 KB|
+|blogspot_subdomain.txt|21840|330 KB|
+|exploit_sites.txt|12164|353 KB|
+|fraud_sites.txt|167014|3,8 MB|
+|malware_sites.txt|130570|2,6 MB|
+|phishing_sites.txt|146674|3,2 MB|
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Licence
 
-```markdown
-Syntax highlighted code block
+[MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/)
 
-# Header 1
-## Header 2
-### Header 3
+© 2017
 
-- Bulleted
-- List
+#### Disclaimer
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Leneraka/grizzzly/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
