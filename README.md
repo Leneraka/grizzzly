@@ -6,12 +6,12 @@
 
 |File|Count Domains|File size|
 |----|-------------|---------|
-|bad_extension.txt|12093|412 KB|
-|blogspot_subdomain.txt|21840|330 KB|
-|exploit_sites.txt|12164|353 KB|
-|fraud_sites.txt|167014|3,8 MB|
-|malware_sites.txt|130570|2,6 MB|
-|phishing_sites.txt|146674|3,2 MB|
+|bad_extension.txt|12 093|412 KB|
+|blogspot_subdomain.txt|21 840|330 KB|
+|exploit_sites.txt|12 164|353 KB|
+|fraud_sites.txt|167 014|3,8 MB|
+|malware_sites.txt|130 570|2,6 MB|
+|phishing_sites.txt|146 674|3,2 MB|
 
 ### Licence
 
